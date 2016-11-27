@@ -1,0 +1,1 @@
+JSON.parse(document.getElementsByName("flashvars")[0].value.split("=")[1]).playlist[0].url
